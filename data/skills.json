@@ -1,0 +1,273 @@
+{
+  "Python": [
+    "python3"
+  ],
+  "Java": [],
+  "C": [],
+  "C++": [
+    "cpp"
+  ],
+  "C#": [
+    "c sharp"
+  ],
+  "JavaScript": [
+    "javascript",
+    "js"
+  ],
+  "TypeScript": [
+    "typescript",
+    "ts"
+  ],
+  "HTML": [
+    "html5"
+  ],
+  "CSS": [
+    "css3"
+  ],
+  "React": [
+    "react.js",
+    "reactjs"
+  ],
+  "Next.js": [
+    "nextjs",
+    "next js"
+  ],
+  "Node.js": [
+    "nodejs",
+    "node js"
+  ],
+  "Express.js": [
+    "expressjs",
+    "express js"
+  ],
+  "REST API": [
+    "rest api",
+    "restful api",
+    "restful services"
+  ],
+  "FastAPI": [
+    "fast api"
+  ],
+  "Flask": [],
+  "Django": [],
+  "Spring Boot": [
+    "springboot"
+  ],
+  "SQL": [],
+  "MySQL": [],
+  "PostgreSQL": [
+    "postgres"
+  ],
+  "SQLite": [],
+  "MongoDB": [
+    "mongo db"
+  ],
+  "Redis": [],
+  "Git": [],
+  "GitHub": [],
+  "Linux": [],
+  "Docker": [],
+  "Kubernetes": [
+    "k8s"
+  ],
+  "AWS": [
+    "amazon web services"
+  ],
+  "Azure": [
+    "microsoft azure"
+  ],
+  "GCP": [
+    "google cloud",
+    "google cloud platform"
+  ],
+  "CI/CD": [
+    "ci cd",
+    "continuous integration",
+    "continuous deployment"
+  ],
+  "Data Structures": [
+    "data structures and algorithms",
+    "dsa"
+  ],
+  "Algorithms": [],
+  "Object-Oriented Programming": [
+    "object oriented programming",
+    "oop",
+    "oops"
+  ],
+  "Operating Systems": [
+    "operating system",
+    "os"
+  ],
+  "DBMS": [
+    "database management system"
+  ],
+  "Computer Networks": [
+    "computer networking",
+    "networking"
+  ],
+  "System Design": [],
+  "Machine Learning": [
+    "machine-learning"
+  ],
+  "Deep Learning": [
+    "deep-learning"
+  ],
+  "Natural Language Processing": [
+    "nlp",
+    "natural-language processing"
+  ],
+  "Computer Vision": [
+    "cv"
+  ],
+  "Generative AI": [
+    "genai",
+    "gen ai",
+    "generative artificial intelligence"
+  ],
+  "Large Language Models": [
+    "llm",
+    "llms",
+    "large language model"
+  ],
+  "RAG": [
+    "retrieval augmented generation",
+    "retrieval-augmented generation"
+  ],
+  "Prompt Engineering": [],
+  "Embeddings": [
+    "vector embeddings",
+    "sentence embeddings"
+  ],
+  "Transformers": [
+    "transformer models"
+  ],
+  "PyTorch": [
+    "torch"
+  ],
+  "TensorFlow": [],
+  "Keras": [],
+  "scikit-learn": [
+    "sklearn",
+    "scikit learn"
+  ],
+  "NumPy": [
+    "numpy"
+  ],
+  "Pandas": [
+    "pandas"
+  ],
+  "Matplotlib": [],
+  "spaCy": [
+    "spacy"
+  ],
+  "NLTK": [],
+  "Hugging Face": [
+    "huggingface",
+    "hugging face transformers"
+  ],
+  "Sentence Transformers": [
+    "sentence-transformers",
+    "sentence transformers"
+  ],
+  "LangChain": [
+    "langchain"
+  ],
+  "FAISS": [],
+  "Vector Database": [
+    "vector db",
+    "vector database"
+  ],
+  "OpenAI API": [
+    "openai api"
+  ],
+  "Gemini API": [
+    "google gemini",
+    "gemini api"
+  ],
+  "Random Forest": [
+    "random forests"
+  ],
+  "XGBoost": [
+    "xg boost"
+  ],
+  "LightGBM": [
+    "light gbm"
+  ],
+  "SVM": [
+    "support vector machine",
+    "support vector machines"
+  ],
+  "Linear Regression": [],
+  "Logistic Regression": [],
+  "Gradient Boosting": [],
+  "Feature Engineering": [],
+  "Data Preprocessing": [
+    "data preprocessing",
+    "preprocessing"
+  ],
+  "Model Deployment": [
+    "ml deployment",
+    "model serving"
+  ],
+  "MLOps": [
+    "mlops"
+  ],
+  "Streamlit": [],
+  "Gradio": [],
+  "Jupyter": [
+    "jupyter notebook"
+  ],
+  "Google Colab": [
+    "colab"
+  ],
+  "Selenium": [],
+  "BeautifulSoup": [
+    "beautiful soup",
+    "bs4"
+  ],
+  "Web Scraping": [
+    "scraping"
+  ],
+  "Power BI": [
+    "powerbi"
+  ],
+  "Tableau": [],
+  "Excel": [
+    "microsoft excel"
+  ],
+  "MATLAB": [],
+  "Simulink": [],
+  "SolidWorks": [
+    "solidworks"
+  ],
+  "AutoCAD": [
+    "autocad"
+  ],
+  "PyMuPDF": [
+    "pymupdf",
+    "fitz"
+  ],
+  "Unit Testing": [
+    "unit tests",
+    "pytest",
+    "junit"
+  ],
+  "Agile": [
+    "scrum"
+  ],
+  "Microservices": [
+    "microservice architecture"
+  ],
+  "OAuth": [
+    "oauth2",
+    "oauth 2.0"
+  ],
+  "JWT": [
+    "json web token"
+  ],
+  "GraphQL": [
+    "graphql"
+  ],
+  "Firebase": []
+}

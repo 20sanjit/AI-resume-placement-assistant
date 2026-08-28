@@ -1,0 +1,22 @@
+Machine Learning / GenAI Intern
+
+We are looking for a student with strong Python fundamentals and experience
+building machine learning or generative AI applications.
+
+Desired skills:
+- Python
+- Machine Learning
+- PyTorch or TensorFlow
+- NLP
+- Large Language Models
+- RAG and embeddings
+- FastAPI
+- SQL
+- Git
+- Docker
+
+Responsibilities:
+- Build and evaluate ML/GenAI prototypes.
+- Create APIs and simple interfaces for model-powered applications.
+- Work with structured and unstructured data.
+- Document experiments and communicate technical trade-offs.
